@@ -185,6 +185,7 @@ const TransactionCreateStepTwo: React.FC<TransactionCreateStepTwoProps> = ({
                 </Grid>
                 <Grid item>
                   <Button
+                    name="/pay/i"
                     type="submit"
                     fullWidth
                     variant="contained"
